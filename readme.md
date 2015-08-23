@@ -12,4 +12,5 @@ classic optimizaion as Alph-Beta pruning).
 
 Usage: python uttt_game_engine.py <arg1> <arg2>
 run with no arguments to see the help.
- 
+
+You can read more about this project here: https://dl.dropboxusercontent.com/u/44007816/site/uttt.html 
