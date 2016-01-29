@@ -10,7 +10,16 @@ Our project focused on implementation of different evaluation functions
 and unique optimization combined with Minimax (in addition to the 
 classic optimizaion as Alph-Beta pruning).
 
-Usage: python uttt_game_engine.py <arg1> <arg2>
-run with no arguments to see the help.
+Usage: 
+```
+python uttt_game_engine.py <agent1> <agent2>
+```
+
+For example: 
+```
+python uttt_game_engine.py MM_Winning human
+```
+
+Run with no arguments to see the full agents list.
 
 You can read more about this project here: https://dl.dropboxusercontent.com/u/44007816/site/uttt.html 
