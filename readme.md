@@ -22,4 +22,4 @@ python uttt_game_engine.py MM_Winning human
 
 Run with no arguments to see the full agents list.
 
-You can read more about this project here: https://dl.dropboxusercontent.com/u/44007816/site/uttt.html 
+You can read more about this project here: https://eranamar.herokuapp.com/uttt.html
