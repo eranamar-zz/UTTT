@@ -1,7 +1,9 @@
-Ultimate "Ultimate Tic Tac Toe" Player
-====================
-This is final project in AI course at HUJI (winter 2013/24).
+#Ultimate "Ultimate Tic Tac Toe" Player
+
+This was the final project in AI course at HUJI (winter 2013/14).
+
 Authors: Adi Ben Binyamin & Eran Amar.
+
 Subject: Adversarial Search - Minimax and optimizations.
 
 We explored the Utlimate-Tic-Tac-Toe game, and implemented 
